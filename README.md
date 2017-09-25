@@ -1,2 +1,2 @@
 # firsttry
-just test
+just test #2
